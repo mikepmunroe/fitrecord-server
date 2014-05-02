@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2014-05-02
+  rep_scheme: 1
+  load: 1
+  notes: MyText
+
+two:
+  date: 2014-05-02
+  rep_scheme: 1
+  load: 1
+  notes: MyText
